@@ -107,10 +107,10 @@ Step-5: Creates a second, independent tidy data set with the average of each var
     
     + The final tidy data frame called "tidydfrm" via "melt" function and then "dcast" function.
   
-    + Finally, a file called "tidy_average_data.txt" was created via "write.table" function.
+    + Finally, a file called "tidyDataSet.txt" was created via "write.table" function.
       This is the final output tidy processed data.
     
-    + The detailed description of the "tidy_average_data.txt" and the given raw data set
+    + The detailed description of the "tidyDataSet.txt" and the given raw data set
       are in "CodeBook.md" file.
 ====================================================================================================
 
@@ -118,7 +118,7 @@ Acknowledgement
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
 License
-Using the tidy data set "tidy_average_data.txt" in publications must be acknowledged by reference the publication [1]
+Using the tidy data set "tidyDataSet.txt" in publications must be acknowledged by reference the publication [1]
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
