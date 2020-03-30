@@ -28,7 +28,7 @@
 #########################################################################################
 ##
 run_analysis <- function() {
-## 
+#
 #########################################################################################
 ## Step 0: load the required special package: reshape2 (to use melt fuction and dcast function)
 ##         melt function and dcast function will be used in Step 5
